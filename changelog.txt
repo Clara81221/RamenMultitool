@@ -1,13 +1,10 @@
-Thank you for using Ramen's Multitool v0.9.0
+Thank you for using Ramen's Multitool v0.9.1
 Here is a list of changes that have come with this update.
 
--Login bug fixes
--URL optimization
--Size optimization
--Menus
--URLs actually work
--Added resources and such
--Changed the way option 6 works in the main menu
+-Fixed crash when opening Other Tools
+-Minor bug fixes and improvements
+-Complete UI overhaul
+-Added logins to database
 
 Thanks to everybody who supported me
-Build date: 1:41AM 11/7/2020
+Build date: 1:55 AM 11/9/2020
