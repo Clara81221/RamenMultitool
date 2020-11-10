@@ -1,10 +1,9 @@
-Thank you for using Ramen's Multitool v0.9.1
+Thank you for using Ramen's Multitool v0.9.2-beta
 Here is a list of changes that have come with this update.
 
--Fixed crash when opening Other Tools
--Minor bug fixes and improvements
--Complete UI overhaul
+-Changed the changelog
 -Added logins to database
+-Decreased my own mental state
 
 Thanks to everybody who supported me
-Build date: 1:55 AM 11/9/2020
+Build date: 11:07 PM 11/9/2020
